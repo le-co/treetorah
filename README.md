@@ -1,7 +1,7 @@
 # Tree Torah
 
-![](https://github.com/le-co/treetorah/blob/master/images/1.png)
 ![](https://github.com/le-co/treetorah/blob/master/images/2.png)
+![](https://github.com/le-co/treetorah/blob/master/images/1.png)
 
 ### Tech
 
