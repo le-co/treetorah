@@ -1,7 +1,7 @@
 # Tree Torah
 
-![test](https://github.com/le-co/treetorah/blob/master/images/Screen%20Shot%202018-11-24%20at%2017.01.36.png | width=100)
-![test](https://github.com/le-co/treetorah/blob/master/images/Screen%20Shot%202018-11-24%20at%2017.15.15.png | width=100)
+![](https://github.com/le-co/treetorah/blob/master/images/Screen%20Shot%202018-11-24%20at%2017.01.36.png)
+![](https://github.com/le-co/treetorah/blob/master/images/Screen%20Shot%202018-11-24%20at%2017.15.15.png)
 
 ### Tech
 
