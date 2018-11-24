@@ -1,8 +1,7 @@
 # Tree Torah
 
-![alt text](https://drive.google.com/open?id=1Yd5eYLj01tTGaXecPfnoxl6WGwthG1Hv "Screem 1")
-![alt text](https://drive.google.com/open?id=1AN3f5b7wuMjQDJdy8OFRyRekb3PVCq48 "Screem 2")
-![alt text](https://drive.google.com/open?id=1BftPoL4McrAWi2UvOGQF9bGoHi6TPkEq "Screem 3")
+![alt text](https://github.com/le-co/treetorah/blob/master/images/Screen%20Shot%202018-11-24%20at%2017.01.36.png "Screem 1")
+![alt text](https://github.com/le-co/treetorah/blob/master/images/Screen%20Shot%202018-11-24%20at%2017.15.15.png "Screem 2")
 
 ### Tech
 
